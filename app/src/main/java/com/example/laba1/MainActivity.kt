@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var loginFlied: EditText
     private lateinit var passwordFlied: EditText
     private lateinit var button: Button
+
     private lateinit var db: DataBase
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
