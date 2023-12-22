@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Список рецептов"
+        android:id="@+id/list_recieps"
+        android:icon="@drawable/ic_list_recipes"
+        android:color="#41E8F6"/>
+
+    <item android:title="Текущий рецепт"
+        android:id="@+id/selected"
+        android:icon="@drawable/ic_selected_recipe"
+        android:color="#41E8F6"/>
+
+    <item android:title="Любимые рецепты"
+        android:id="@+id/favorite"
+        android:icon="@drawable/ic_favorite_recipe"
+        android:color="#41E8F6"/>
+
+</menu>

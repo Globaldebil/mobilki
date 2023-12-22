@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Лаба РМП</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">"Войти"</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_list">List</string>
+    <string name="title_selected">Selected</string>
+    <string name="title_favorite">Favorite</string>
+    <string-array name="Emails">
+        <item>vasya_pupkin@gmail.com</item>
+        <item>vsem_hello@gmail.com</item>
+        <item>artem3232@mail.ru</item>
+        <item>vovan_V_tanke@gmail.com</item>
+        <item>s1mple@gmail.com</item>
+    </string-array>
+    <string-array name="Passwords">
+        <item>qwerty</item>
+        <item>kyky</item>
+        <item>art3m</item>
+        <item>KV1</item>
+        <item>123456</item>
+    </string-array>
+    <string-array name="recipes_name">
+        <item>Борщ</item>
+        <item>Суп</item>
+        <item>Щи</item>
+        <item>Окрошка</item>
+        <item>Селедка</item>
+        <item>Мороженное</item>
+        <item>Бургер</item>
+        <item>Еще бургер</item>
+        <item>Рис</item>
+        <item>Квас</item>
+        <item>Сыр</item>
+        <item>Арбуз</item>
+        <item>Шашлык из баранины</item>
+        <item>Шашлык из свинины</item>
+        <item>Шашлык из курицы</item>
+        <item>Курица в духовке</item>
+        <item>Краб</item>
+        <item>Пиво</item>
+        <item>Закваска</item>
+        <item>Гвозди</item>
+        <item>Крабовый салат</item>
+        <item>Оливье</item>
+        <item>Наполеон</item>
+
+    </string-array>
+</resources>
