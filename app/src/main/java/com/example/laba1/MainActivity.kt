@@ -27,13 +27,13 @@ class MainActivity : AppCompatActivity() {
         db = DataBase.getDatabase(this)
         thread {
             db.getDao()
-                .createUser(User(login = "vasya_pupkin@gmail.com", password = "qwerty"))
+                .createUser(User(login = "vasya@gmail.com", password = "qwerty"))
             db.getDao()
-                .createUser(User(login = "vsem_hello@gmail.com", password = "kyky"))
+                .createUser(User(login = "vsem@gmail.com", password = "kyky"))
             db.getDao()
-                .createUser(User(login = "artem3232@mail.ru", password = "art3m"))
+                .createUser(User(login = "artem@mail.ru", password = "art3m"))
             db.getDao()
-                .createUser(User(login = "vovan_V_tanke@gmail.com", password = "KV1"))
+                .createUser(User(login = "vovan@gmail.com", password = "KV1"))
             db.getDao()
                 .createUser(User(login = "s1mple@gmail.com", password = "123456"))
         }
